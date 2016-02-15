@@ -1,0 +1,5 @@
+name: phpunit_dcc
+type: module
+description: PHPUnit Drupal Console Commands
+core: 8.x
+package: Custom

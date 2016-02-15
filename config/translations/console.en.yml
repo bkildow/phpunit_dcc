@@ -1,0 +1,6 @@
+command:
+    generate:
+        phpunit:
+            description: 'Generate PHPUnit configuration file for a module'
+            options:
+                module: 'Specify the module you would like to use'
